@@ -29,3 +29,11 @@ Classic analogy: Person A holds a pen and needs paper. Person B holds paper and 
 ![image alt](https://github.com/kaleemkayani/Deadlock_Detection_Simulator/blob/bac6641bc1b6cdf89bbe29fcf674794a3e046291/OutPut%20Result/Results.png)
 ## Guide
 ![image alt](https://github.com/kaleemkayani/Deadlock_Detection_Simulator/blob/bac6641bc1b6cdf89bbe29fcf674794a3e046291/OutPut%20Result/Guide.png)
+# Functional Requirements 
+➢ The system shall allow the user to define processes and resources. 
+➢ The system shall create a Resource Allocation Graph. 
+➢ The system shall identify requests and allocations between processes and 
+resources. 
+➢ The system shall detect deadlock by checking for cycles in the graph. 
+➢ The system shall display whether a deadlock exists or not. 
+➢ The user shall be able to modify resource allocation and recheck deadlock. 
