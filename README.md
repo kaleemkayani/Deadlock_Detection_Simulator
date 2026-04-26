@@ -22,6 +22,7 @@ Classic analogy: Person A holds a pen and needs paper. Person B holds paper and 
 #### 3 Wait-For Graph (WFG)
 ## Command Prompt
 ![image alt](https://github.com/kaleemkayani/Deadlock_Detection_Simulator/blob/bac6641bc1b6cdf89bbe29fcf674794a3e046291/OutPut%20Result/commad.png)
+# OUTPUT SIMULATOR
 ## InterFace
 ![image alt](https://github.com/kaleemkayani/Deadlock_Detection_Simulator/blob/b0dfed9b4db9eacb77c538b1dab2e83ee34261a2/OutPut%20Result/interface.png)
 ## Result
