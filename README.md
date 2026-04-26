@@ -21,3 +21,4 @@ Classic analogy: Person A holds a pen and needs paper. Person B holds paper and 
 ### 2 Resource Allocation Graph (RAG)
 ### 3 Wait-For Graph (WFG)
 
+https://github.com/kaleemkayani/Deadlock_Detection_Simulator/blob/21883f1ef58e918dd4374f44432b2fae852b8176/OutPut%20Result/commad.png
