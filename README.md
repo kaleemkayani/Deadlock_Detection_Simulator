@@ -35,7 +35,10 @@ Classic analogy: Person A holds a pen and needs paper. Person B holds paper and 
 ➢ The system shall create a Resource Allocation Graph. 
 
 ➢ The system shall identify requests and allocations between processes and 
-resources. 
+resources.
+
 ➢ The system shall detect deadlock by checking for cycles in the graph. 
+
 ➢ The system shall display whether a deadlock exists or not. 
+
 ➢ The user shall be able to modify resource allocation and recheck deadlock. 
