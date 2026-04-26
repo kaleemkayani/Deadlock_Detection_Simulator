@@ -17,8 +17,14 @@ In modern operating systems, multiple processes compete for limited shared resou
 A deadlock is a situation in which two or more competing actions are each waiting for the other to finish, and thus neither ever does. In an operating system, deadlock occurs when processes form a circular chain of resource dependency.
 Classic analogy: Person A holds a pen and needs paper. Person B holds paper and needs a pen. Neither can proceed — this is a deadlock.
 ## 3. Detection Algorithms
-### 1 Banker's Algorithm
-### 2 Resource Allocation Graph (RAG)
-### 3 Wait-For Graph (WFG)
-
+#### 1 Banker's Algorithm
+#### 2 Resource Allocation Graph (RAG)
+#### 3 Wait-For Graph (WFG)
+## Command Prompt
 ![image alt](https://github.com/kaleemkayani/Deadlock_Detection_Simulator/blob/bac6641bc1b6cdf89bbe29fcf674794a3e046291/OutPut%20Result/commad.png)
+## InterFace
+![image alt](https://github.com/kaleemkayani/Deadlock_Detection_Simulator/blob/b0dfed9b4db9eacb77c538b1dab2e83ee34261a2/OutPut%20Result/interface.png)
+## Result
+![image alt](https://github.com/kaleemkayani/Deadlock_Detection_Simulator/blob/bac6641bc1b6cdf89bbe29fcf674794a3e046291/OutPut%20Result/Result.png)
+## Guide
+![image alt](https://github.com/kaleemkayani/Deadlock_Detection_Simulator/blob/bac6641bc1b6cdf89bbe29fcf674794a3e046291/OutPut%20Result/Guide.png)
